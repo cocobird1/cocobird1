@@ -1,6 +1,5 @@
 ### Hi there 👋
 William Wang
-Columbia University
 
 I like snowboarding and cats
 
