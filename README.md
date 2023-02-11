@@ -3,6 +3,8 @@ William Wang
 Columbia University
 
 I like snowboarding and cats
+
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 <!--
 **cocobird1/cocobird1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
