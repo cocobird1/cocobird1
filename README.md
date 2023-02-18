@@ -4,7 +4,7 @@ William Wang
 I like snowboarding and cats
 
 ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
-![github issues]https://img.shields.io/github/issues/cocobird1/fantasyfootball-crawler
+![github issues](https://img.shields.io/github/issues/cocobird1/fantasyfootball-crawler)
 ![](https://github.com/cocobird1/cocobird1/blob/main/githubgif.gif)
 <!--
 **cocobird1/cocobird1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
